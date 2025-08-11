@@ -61,7 +61,7 @@ section {
 }
 
 .banner .logo {
-  background-color: rgba(0, 0, 0, .2);
+  background-color: #00000033;
   height: 260px;
   width: 260px;
   margin: auto;
@@ -107,7 +107,7 @@ section {
   background-color: #252525;
   padding: 16px;
   border-radius: 100px;
-  box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
+  box-shadow: inset -5px 6px 8px #000000b3;
 }
 
 #course-content .modules-list .module span {
